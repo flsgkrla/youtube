@@ -1,0 +1,1 @@
+[{"class": "bench", "confidence": 0.1078002080321312, "bbox": [3, 108, 479, 250]}, {"class": "bench", "confidence": 0.45063748955726624, "bbox": [255, 136, 479, 248]}, {"class": "person", "confidence": 0.8331557512283325, "bbox": [159, 34, 270, 232]}, {"class": "person", "confidence": 0.9177916049957275, "bbox": [297, 22, 443, 275]}]

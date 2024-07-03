@@ -1,0 +1,1 @@
+[{"class": "bus", "confidence": 0.24766211211681366, "bbox": [1, 15, 478, 261]}, {"class": "bottle", "confidence": 0.45302364230155945, "bbox": [126, 65, 194, 99]}, {"class": "person", "confidence": 0.9122024178504944, "bbox": [21, 33, 195, 269]}, {"class": "person", "confidence": 0.9122923016548157, "bbox": [301, 16, 480, 260]}]

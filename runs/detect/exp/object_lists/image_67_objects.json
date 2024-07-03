@@ -1,0 +1,1 @@
+[{"class": "keyboard", "confidence": 0.2847867012023926, "bbox": [164, 189, 267, 266]}, {"class": "couch", "confidence": 0.337574303150177, "bbox": [282, 24, 480, 282]}, {"class": "laptop", "confidence": 0.8083591461181641, "bbox": [131, 177, 273, 266]}, {"class": "cup", "confidence": 0.9138650894165039, "bbox": [148, 142, 188, 188]}]
